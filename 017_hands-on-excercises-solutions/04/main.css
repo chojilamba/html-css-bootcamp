@@ -1,0 +1,14 @@
+div {
+    width: 400px;
+    height: 200px;
+    border: 10px dashed red;
+    margin: 20px auto;
+/*options*/
+/*TRBL*/
+/*TB RL*/
+/*T R B L*/
+}
+
+.nogrow {
+    box-sizing: border-box;
+}
